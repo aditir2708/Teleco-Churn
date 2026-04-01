@@ -71,11 +71,15 @@ The goal is to identify key factors contributing to churn and provide actionable
 ---
 
 ## Dashboard Preview
-1. ![Dashboard](Churn_dash.png)
-2. [Churn Dashboard](./Churn_analysis.pbix)  -- Interactive dashboard
-3. [EDA Notebook](./Customer_churn.ipynb)  
-4. [SQL Queries](./Churn_queries.sql)  
-5. [Kaggle Dataset Link](https://www.kaggle.com/code/basmalaawad/telco-customer-churn-dataset/input)
+ ![Dashboard](Churn_dash.png)
+
+---
+
+## Project Files
+1. [Churn Dashboard](./Churn_analysis.pbix)  -- Interactive dashboard
+2. [EDA Notebook](./Customer_churn.ipynb)  
+3. [SQL Queries](./Churn_queries.sql)  
+4. [Kaggle Dataset Link](https://www.kaggle.com/code/basmalaawad/telco-customer-churn-dataset/input)
    
 ---
 
