@@ -21,7 +21,7 @@ The goal is to identify key factors contributing to churn and provide actionable
   - Tenure Groups
   - Charges Groups
   - Total Services  
-- Performed exploratory analysis:
+- Performed exploratory data analysis:
   - Churn distribution  
   - Churn by contract, tenure, payment method  
   - Correlation analysis  
@@ -61,6 +61,7 @@ The goal is to identify key factors contributing to churn and provide actionable
 - Higher charges show slightly higher churn tendency, indicating possible price sensitivity
 
 ---
+
 ## Business Recommendations
 - Focus on early customer retention by improving onboarding and engagement in the first year
 - Promote long-term contracts through discounts and incentives to reduce churn risk
@@ -75,25 +76,8 @@ The goal is to identify key factors contributing to churn and provide actionable
 3. [EDA Notebook](./Customer_churn.ipynb)  
 4. [SQL Queries](./Churn_queries.sql)  
 5. [Kaggle Dataset Link](https://www.kaggle.com/code/basmalaawad/telco-customer-churn-dataset/input)
- 
----
-
-## Key Learnings
-- End-to-end data analysis workflow  
-- Data cleaning & feature engineering  
-- Writing analytical SQL queries  
-- Building interactive dashboards in Power BI  
-- Converting data insights into business decisions  
-
+   
 ---
 
 ## Conclusion
-This project highlights the importance of:
-- Early customer retention strategies  
-- Improving service engagement  
-- Monitoring high-risk customer segments  
-
----
-
-## 🙌 Author
-**Aditi**
+- The analysis reveals that churn is primarily influenced by customer tenure, contract type, and service engagement. Strategic focus on retention, long-term contracts, and service engagement can significantly improve customer loyalty and reduce churn.
