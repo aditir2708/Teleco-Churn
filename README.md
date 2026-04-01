@@ -70,11 +70,12 @@ The goal is to identify key factors contributing to churn and provide actionable
 ---
 
 ## Dashboard Preview
-1. Preview ![Dashboard](Churn_dash.png)
-2. Power BI Dashboard: [Sales Dashboard](./Customer_Churn.pbix)  -- Interactive dashboard
-3. Python Notebook: [EDA Notebook](./Customer_churn.ipynb)  
-- 🗄️ SQL File: [SQL Queries](./churn_analysis.sql)  
-- 📁 Dataset: [Kaggle Dataset Link](your-link-here)
+1. ![Dashboard](Churn_dash.png)
+2. [Churn Dashboard](./Churn_analysis.pbix)  -- Interactive dashboard
+3. [EDA Notebook](./Customer_churn.ipynb)  
+4. [SQL Queries](./Churn_queries.sql)  
+5. [Kaggle Dataset Link](Customer_churn.csv)(https://www.kaggle.com/code/basmalaawad/telco-customer-churn-dataset/input)
+ 
 ---
 
 ## Key Learnings
