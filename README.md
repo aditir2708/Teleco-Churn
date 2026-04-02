@@ -1,8 +1,7 @@
 # Customer Churn Analysis (End-to-End Project)
 
 ## Project Overview
-This project focuses on analyzing customer churn behavior using **Python, SQL, and Power BI**.  
-The goal is to identify key factors contributing to churn and provide actionable business insights.
+This project focuses on analyzing customer churn behavior using **Python, SQL, and Power BI**. Performed customer segmentation using RFM analysis to identify high-value and at-risk customers for targeted business strategies. The goal is to identify key factors contributing to churn and provide actionable business insights.
 
 ---
 
@@ -24,8 +23,14 @@ The goal is to identify key factors contributing to churn and provide actionable
 - Performed exploratory data analysis:
   - Churn distribution  
   - Churn by contract, tenure, payment method  
-  - Correlation analysis  
+  - Correlation analysis
 
+### Customer Segmentation Analysis
+- Applied RFM-based segmentation using tenure, service usage, and total charges and classified customers into High, Medium, and Low value segments
+- Identified that high-value customers contribute the majority of revenue and show lower churn risk
+- Observed that low-value customers have higher churn tendency, indicating lower engagement
+- Segmentation shall help in designing targeted retention and upselling strategies.
+  
 ---
 
 ### 2️. Data Analysis (SQL)
